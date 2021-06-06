@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Deepen Saha</title>
-    <link>http://www.example.com/tags/</link>
+    <link>https://deepensaha.github.io/tags/</link>
     <description>Recent content in Tags on Deepen Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Sep 2020 06:15:45 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deepensaha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Django</title>
-      <link>http://www.example.com/tags/django/</link>
+      <link>https://deepensaha.github.io/tags/django/</link>
       <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/django/</guid>
+      <guid>https://deepensaha.github.io/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logging</title>
-      <link>http://www.example.com/tags/logging/</link>
+      <link>https://deepensaha.github.io/tags/logging/</link>
       <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/logging/</guid>
+      <guid>https://deepensaha.github.io/tags/logging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://www.example.com/tags/python/</link>
+      <link>https://deepensaha.github.io/tags/python/</link>
       <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/python/</guid>
+      <guid>https://deepensaha.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python3</title>
-      <link>http://www.example.com/tags/python3/</link>
+      <link>https://deepensaha.github.io/tags/python3/</link>
       <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/python3/</guid>
+      <guid>https://deepensaha.github.io/tags/python3/</guid>
       <description></description>
     </item>
     
