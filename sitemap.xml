@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.example.com/categories/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/django/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/django/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/updates/2020/09/django-logging-a-weapon-for-debuggers/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/logging/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/python/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/python/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/python3/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/updates/</loc>
+    <lastmod>2020-09-09T06:15:45+00:00</lastmod>
+  </url>
+  
+</urlset>
