@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&amp;display=swap); </style>
+</defs>
+<g>
+<g transform="translate(1160,128) rotate(0,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-60.76911163330078" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Code</text>
+</g>
+<g transform="translate(1124,172) rotate(0,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-94.4632797241211" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Sublime</text>
+</g>
+<g transform="translate(480,584) rotate(0,0,0)">
+<text fill="#b64926" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-74.64471435546875" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Studio</text>
+</g>
+<g transform="translate(770,848) rotate(0,0,0)">
+<text fill="rgb(31,255,1)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-70.7434310913086" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Visual</text>
+</g>
+<g transform="translate(1068,320) rotate(0,0,0)">
+<text fill="rgb(31,255,1)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-109.05403137207031" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Bitbucket</text>
+</g>
+<g transform="translate(892,790) rotate(-15.340092817209449,0,0)">
+<text fill="#b64926" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-67.72642517089844" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Gitlab</text>
+</g>
+<g transform="translate(1158,212) rotate(0,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-55.38508605957031" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">AWS</text>
+</g>
+<g transform="translate(1158,252) rotate(0,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-51.900177001953125" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">GCP</text>
+</g>
+<g transform="translate(542,540) rotate(0,0,0)">
+<text fill="#8e2800" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-107.77957153320312" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Webpack</text>
+</g>
+<g transform="translate(968,200) rotate(0,0,0)">
+<text fill="#8e2800" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-62.21260070800781" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Linux</text>
+</g>
+<g transform="translate(1096,360) rotate(0,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-64.98251342773438" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Grunt</text>
+</g>
+<g transform="translate(860,736) rotate(0,0,0)">
+<text fill="#8e2800" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-90.17185974121094" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Jenkins</text>
+</g>
+<g transform="translate(720,728) rotate(86.30861520697503,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-62.77178955078125" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">Slack</text>
+</g>
+<g transform="translate(932,244) rotate(0,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-80.96480560302734" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">GitHub</text>
+</g>
+<g transform="translate(840,684) rotate(0,0,0)">
+<text fill="#ffb03b" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-114.2166748046875" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Bootstrap</text>
+</g>
+<g transform="translate(522,496) rotate(0,0,0)">
+<text fill="#b64926" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-82.91551208496094" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">JQuery</text>
+</g>
+<g transform="translate(1052,400) rotate(0,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-86.20543670654297" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">HTML5</text>
+</g>
+<g transform="translate(612,404) rotate(0,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-121.05697631835938" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">Javascript</text>
+</g>
+<g transform="translate(856,644) rotate(0,0,0)">
+<text fill="#8e2800" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-97.63632202148438" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">ReactJS</text>
+</g>
+<g transform="translate(930,284) rotate(0,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-51.640098571777344" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">PHP</text>
+</g>
+<g transform="translate(746,604) rotate(0,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-120.28983306884766" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">AngularJS</text>
+</g>
+<g transform="translate(538,456) rotate(0,0,0)">
+<text fill="rgb(238,255,240)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-63.60405731201172" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="0">CSS3</text>
+</g>
+<g transform="translate(1076,466) rotate(-43.323218510073474,0,0)">
+<text fill="#ffb03b" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-83.52664947509766" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">MySQL</text>
+</g>
+<g transform="translate(964,352) rotate(0,0,0)">
+<text fill="#8e2800" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-61.74444580078125" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Flask</text>
+</g>
+<g transform="translate(616,480) rotate(67.2409899633085,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-83.17529296875" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Laravel</text>
+</g>
+<g transform="translate(962,494) rotate(-27.202401130084322,0,0)">
+<text fill="#468966" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-82.09618377685547" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">Django</text>
+</g>
+<g transform="translate(854,392) rotate(0,0,0)">
+<text fill="#ffb03b" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-116.03741455078125" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">MongoDB</text>
+</g>
+<g transform="translate(882,482) rotate(-58.69444640965915,0,0)">
+<text fill="#8e2800" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-100.26319885253906" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic">MariaDB</text>
+</g>
+<g transform="translate(706,500) rotate(34.687563068631185,0,0)">
+<text fill="rgb(31,255,1)" stroke="none" font-family="Roboto" font-size="53.2878px" font-style="normal" font-weight="normal" x="-81.9661865234375" y="-21.315112" text-anchor="start" dominant-baseline="alphabetic" fill-opacity="1">Python</text>
+</g>
+</g>
+</svg>
