@@ -6,10 +6,37 @@
     <description>Recent content on Deepen Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2020 06:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:35:58 +0530</lastBuildDate>
     
 	<atom:link href="https://deepensaha.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://deepensaha.github.io/projects/</link>
+      <pubDate>Mon, 05 Oct 2020 00:35:58 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://deepensaha.github.io/work/</link>
+      <pubDate>Mon, 05 Oct 2020 00:26:54 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/work/</guid>
+      <description>Technical Lead  GrayQuest Finance, Mumbai  December 2019 - Present   Leading a team of 12+ professionals to build fully Automated Financial Systems. Spearheading the architecture and development of platforms as well as services for Automated Financial Workflows and Loan Management Systems.  Instrumental in the upgrades and development of GrayQuest&#39;s Repayment and Reconciliation, Customer, Lender, Institute, Partner, and LMS Platforms. Boosted sales by 10x through automation and reducing customer flow frictions.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://deepensaha.github.io/about/</link>
+      <pubDate>Sat, 03 Oct 2020 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/about/</guid>
+      <description>The Tech Lead at GrayQuest with over 5 years of expertise as a Full Stack Developer, he is a full stack of technology talent. His forte primarily lies in building large scale automated systems. His penchant for technology is the result of his passion to solve problems by leveraging the same. He is particularly interested in automation and open source projects. In his leisure time, he is absorbing the latest updates about everything tech.</description>
+    </item>
     
     <item>
       <title>Django Logging — A Weapon for Debuggers</title>
