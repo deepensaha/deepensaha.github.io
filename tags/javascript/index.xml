@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Deepen Saha</title>
+    <link>https://deepensaha.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on Deepen Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Jun 2021 22:15:34 +0530</lastBuildDate>
+    
+	<atom:link href="https://deepensaha.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://deepensaha.github.io/about/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/about/</guid>
+      <description>I am currently the Tech Lead at GrayQuest Finance and possess over 5 years of expertise as a Full Stack Developer.
+My forte primarily lies in building large scale automated systems. A penchant for technology is the result of my passion to solve problems by leveraging the same. I am particularly interested in automation and open source projects. In my leisure time, I read and absorb the latest updates about everything tech.</description>
+    </item>
+    
+  </channel>
+</rss>

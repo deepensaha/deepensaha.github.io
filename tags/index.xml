@@ -6,17 +6,233 @@
     <description>Recent content in Tags on Deepen Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2020 06:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 22:15:34 +0530</lastBuildDate>
     
 	<atom:link href="https://deepensaha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Django</title>
+      <title>about deepen saha</title>
+      <link>https://deepensaha.github.io/tags/about-deepen-saha/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/about-deepen-saha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about technopolist</title>
+      <link>https://deepensaha.github.io/tags/about-technopolist/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/about-technopolist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>angularjs</title>
+      <link>https://deepensaha.github.io/tags/angularjs/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/angularjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash scripting</title>
+      <link>https://deepensaha.github.io/tags/bash-scripting/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/bash-scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codeigniter</title>
+      <link>https://deepensaha.github.io/tags/codeigniter/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/codeigniter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css3</title>
+      <link>https://deepensaha.github.io/tags/css3/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/css3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deepen saha</title>
+      <link>https://deepensaha.github.io/tags/deepen-saha/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/deepen-saha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
       <link>https://deepensaha.github.io/tags/django/</link>
-      <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
       
       <guid>https://deepensaha.github.io/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flask</title>
+      <link>https://deepensaha.github.io/tags/flask/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>full stack developer</title>
+      <link>https://deepensaha.github.io/tags/full-stack-developer/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/full-stack-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grunt</title>
+      <link>https://deepensaha.github.io/tags/grunt/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/grunt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html5</title>
+      <link>https://deepensaha.github.io/tags/html5/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://deepensaha.github.io/tags/javascript/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jenkins</title>
+      <link>https://deepensaha.github.io/tags/jenkins/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jquery</title>
+      <link>https://deepensaha.github.io/tags/jquery/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laravel</title>
+      <link>https://deepensaha.github.io/tags/laravel/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/laravel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mariadb</title>
+      <link>https://deepensaha.github.io/tags/mariadb/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/mariadb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongodb</title>
+      <link>https://deepensaha.github.io/tags/mongodb/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://deepensaha.github.io/tags/mysql/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://deepensaha.github.io/tags/php/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://deepensaha.github.io/tags/python/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reactjs</title>
+      <link>https://deepensaha.github.io/tags/reactjs/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell scripting</title>
+      <link>https://deepensaha.github.io/tags/shell-scripting/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/shell-scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technopolist</title>
+      <link>https://deepensaha.github.io/tags/technopolist/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/technopolist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webpack</title>
+      <link>https://deepensaha.github.io/tags/webpack/</link>
+      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
+      
+      <guid>https://deepensaha.github.io/tags/webpack/</guid>
       <description></description>
     </item>
     
@@ -26,15 +242,6 @@
       <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
       
       <guid>https://deepensaha.github.io/tags/logging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://deepensaha.github.io/tags/python/</link>
-      <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
-      
-      <guid>https://deepensaha.github.io/tags/python/</guid>
       <description></description>
     </item>
     
