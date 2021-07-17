@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Deepen Saha</title>
-    <link>https://deepensaha.github.io/updates/</link>
+    <link>https://deepensaha.com/updates/</link>
     <description>Recent content in Updates on Deepen Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Sep 2020 06:15:45 +0000</lastBuildDate>
     
-	<atom:link href="https://deepensaha.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deepensaha.com/updates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Django Logging — A Weapon for Debuggers</title>
-      <link>https://deepensaha.github.io/updates/2020/09/django-logging-a-weapon-for-debuggers/</link>
+      <link>https://deepensaha.com/updates/2020/09/django-logging-a-weapon-for-debuggers/</link>
       <pubDate>Wed, 09 Sep 2020 06:15:45 +0000</pubDate>
       
-      <guid>https://deepensaha.github.io/updates/2020/09/django-logging-a-weapon-for-debuggers/</guid>
+      <guid>https://deepensaha.com/updates/2020/09/django-logging-a-weapon-for-debuggers/</guid>
       <description>Django logging configuration and usage for Beginners. In the simplest way printing out data into a file or console (terminal) making it easier for developers to trace back the source of errors.</description>
     </item>
     
