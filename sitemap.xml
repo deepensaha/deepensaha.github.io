@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://deepensaha.com/</loc>
+    <lastmod>2021-08-29T00:35:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deepensaha.com/projects/</loc>
+    <lastmod>2021-08-29T00:35:58+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deepensaha.com/categories/</loc>
     <lastmod>2021-08-02T06:00:00+00:00</lastmod>
   </url>
@@ -128,11 +138,6 @@
   </url>
   
   <url>
-    <loc>https://deepensaha.com/</loc>
-    <lastmod>2021-06-13T22:15:34+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://deepensaha.com/tags/deepen-saha/</loc>
     <lastmod>2021-06-13T22:15:34+05:30</lastmod>
   </url>
@@ -225,11 +230,6 @@
   <url>
     <loc>https://deepensaha.com/tags/webpack/</loc>
     <lastmod>2021-06-13T22:15:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deepensaha.com/projects/</loc>
-    <lastmod>2020-10-05T00:35:58+05:30</lastmod>
   </url>
   
   <url>

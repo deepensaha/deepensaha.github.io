@@ -143,3 +143,22 @@ li.timeline-item::before {
 .updates .card-wrapper{
     height: 475px;
 }
+
+/* Projects */
+
+.projects .projects-link,
+.projects .projects-link:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.projects .card-img-top {
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+    -moz-border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 10px 10px 0 0;
+}
+
+.projects .card-wrapper{
+    height: 390px;
+}
