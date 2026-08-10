@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>about deepen saha on Deepen Saha</title>
-    <link>https://deepensaha.com/tags/about-deepen-saha/</link>
-    <description>Recent content in about deepen saha on Deepen Saha</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 13 Jun 2021 22:15:34 +0530</lastBuildDate>
-    
-	<atom:link href="https://deepensaha.com/tags/about-deepen-saha/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://deepensaha.com/about/</link>
-      <pubDate>Sun, 13 Jun 2021 22:15:34 +0530</pubDate>
-      
-      <guid>https://deepensaha.com/about/</guid>
-      <description>I am currently the Vice President of Engineering at GrayQuest Finance and possess over 5+ years of expertise as a Full Stack Developer.
-My forte primarily lies in building large scale automated systems. A penchant for technology is the result of my passion to solve problems by leveraging the same. I am particularly interested in automation and open source projects. In my leisure time, I read and absorb the latest updates about everything tech.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About Deepen Saha on Deepen Saha</title><link>https://deepensaha.com/tags/about-deepen-saha/</link><description>Recent content in About Deepen Saha on Deepen Saha</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0530</lastBuildDate><atom:link href="https://deepensaha.com/tags/about-deepen-saha/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://deepensaha.com/about/</link><pubDate>Tue, 11 Aug 2026 00:00:00 +0530</pubDate><guid>https://deepensaha.com/about/</guid><description>&lt;div class="row"&gt;
+ &lt;div class="col"&gt;
+ &lt;p&gt;
+ I'm a Strategic Engineering Leader with 10+ years building and scaling technology organizations across fintech, edtech, and SaaS. I'm currently Director of Engineering at Rupeek Fintech, and previously spent 6+ years at GrayQuest Education Finance, where I grew the engineering organization from 12 to 70+ professionals.&lt;br&gt;&lt;br&gt;
+ My work centers on microservices architecture, payment systems, and AI/ML implementation — including RAG-based knowledge systems and workflow automation that improve engineering velocity and reduce operational overhead. I bring a strong background in team scaling, hiring, and cross-functional leadership, with deep knowledge of regulatory compliance and financial services technology.
+ &lt;/p&gt;</description></item></channel></rss>
